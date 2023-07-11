@@ -1,0 +1,44 @@
+.nav{
+    margin: auto;
+    margin-top: -15px;
+    /* margin-bottom: 2px; */
+    background: black;
+    color: white;
+    height: 51px;
+}
+.nav ul{
+    display: flex;
+    gap: 97px;
+    align-items: center;
+    text-align: -webkit-auto;
+    list-style: none;
+    height: 47px;
+
+}
+
+.nav a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    
+}
+.div{
+    background: #8a5a5a;
+    color: white;
+    padding: 10px;
+    
+}
+.div div{
+    margin-left: 72px;
+}
+.div h1{
+    
+    color: #d9a1a1;
+    margin-left: 20px;
+}
+.div h2{
+    font-size: 18px;
+}
+.div a{
+    color: bisque;
+}

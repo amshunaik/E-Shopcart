@@ -1,0 +1,40 @@
+.navbar {
+  width: 85%;
+    height: 5rem;
+    /* margin-bottom: 3px; */
+    padding: 0 10%;
+    /* margin: 0; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #252424;
+    position: fixed;
+    opacity: 0.9;
+}
+
+.navbar h1 {
+  color: #df6464;
+}
+
+.navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.tab{
+  display: flex;
+  gap: 50px;
+}
+.tab a{
+  color: #ec7921;
+    text-decoration: none;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.tab a:hover{
+  color: #eebbbb;
+}
+.scroll{
+  scroll-behavior: smooth;
+}

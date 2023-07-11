@@ -1,0 +1,54 @@
+.part h3 {
+  margin: 0px;
+  font-size: 25px;
+}
+.div{
+  
+  box-shadow: 1px 0px 3px #dc9cad;
+  border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 13px;
+  
+}
+  
+
+.part header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  
+}
+.p{
+  font-size: 19px;
+  font-style: italic;
+  color: #515c5c;
+}
+
+.price {
+  border-radius: 30px;
+    padding: 6px 24px;
+    background-color: #3a3a3a;
+    color: white;
+    font-size: 22px;
+}
+
+.item p {
+  color: #3a3a3a;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+}
+.but{
+  
+    height: 35px;
+    background: #e97777;
+    width: 107px;
+    border-radius: 11px;
+    font-size: 17px;
+    font-size: 17px;
+}
+.but:hover{
+  background: #f1d281;
+}

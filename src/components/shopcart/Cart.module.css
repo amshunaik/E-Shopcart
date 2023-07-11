@@ -1,0 +1,22 @@
+.cart {
+  max-width: 600px;
+  
+  background-color: #a27171;
+  color: white;
+}
+
+.cart h2 {
+  font-size: 1.25rem;
+  margin: 0.5rem 0;
+  text-align: center;
+}
+
+.cart ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.div{
+  background-color: #654444;
+  background-color: white;
+}

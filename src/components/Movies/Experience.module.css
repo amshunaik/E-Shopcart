@@ -1,0 +1,25 @@
+.button{
+    text-align: center;
+}
+.press{
+    background: yellow;
+    width: 139px;
+    font-weight: 600;
+    box-shadow: 1px 1px 10px #868694;
+    font-size: 28px;
+    height: 42px;
+}
+.press:hover{
+    background: rgb(232, 150, 240);
+}
+.p{
+    color: red;
+    text-align: center;
+    font-size: 28px;
+}
+.nope{
+    text-align: center;
+    font-size: 28px;
+    color: rgb(219, 59, 203);
+
+}

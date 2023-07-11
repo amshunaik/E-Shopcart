@@ -1,0 +1,21 @@
+.div{
+    text-align: center;
+    padding-top: 10px;
+    /* margin-top: 53px;*/
+}
+.div h1{
+    font-size: 32px;
+    color: rgb(132, 83, 60);
+    margin: 0px;
+}
+.div p{
+    font-size: 18px;
+    font-style: italic;
+    margin: 0px 26px;
+    border: 1px solid brown;
+    background: #efd7b2;
+    font-size: 19px;
+    font-style: italic;
+    color: #b28282;
+    margin-top: 8px;
+}

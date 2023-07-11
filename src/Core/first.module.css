@@ -1,0 +1,19 @@
+.but2{
+  color: yellow;
+  background: #18a777;
+  width: 179px;
+  border-radius: 24px;
+  border: 2px solid white;
+  height: 38px;
+  font-size: 21px;
+  margin-left: 1262px;
+  margin-top: 90px;
+  }
+  .but2 :active{
+    background: #185da7;
+    color: black;
+  }
+  .bar{
+    background: #99ccc1;
+    padding-bottom: 11px;
+  }

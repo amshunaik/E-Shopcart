@@ -1,0 +1,26 @@
+.button {
+  background-color: transparent;
+  border-color: #e79871;
+  color: #e4ad82;
+  width: 179px;
+  font-size: 19px;
+  height: 41px;
+}
+
+.button:hover,
+.button:active {
+  color: white;
+}
+
+
+
+.badge {
+  background-color: #a9532c;
+  border-radius: 30px;
+  font-size: 20px;
+  
+  padding: 2px 20px;
+
+  margin-left: 9px;
+  color: #e9dddd;
+}

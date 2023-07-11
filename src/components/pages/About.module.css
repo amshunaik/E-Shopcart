@@ -1,0 +1,161 @@
+.nav{
+    margin: auto;
+    margin-top: -15px;
+    /* margin-bottom: 2px; */
+    background: black;
+    color: white;
+    height: 51px;
+}
+.nav ul{
+    display: flex;
+    gap: 97px;
+    align-items: center;
+    text-align: -webkit-auto;
+    list-style: none;
+    height: 47px;
+
+}
+
+.nav a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    
+}
+.part1{
+    background: #ecd8bf;
+    padding-bottom: 9px;
+
+}
+.part1 h2{
+    margin: 0px;
+    font-size: 30px;
+    text-align: center;
+}
+.part1 p{
+    padding: 0px 29px;
+    text-align: justify;
+    color: #ce6d36;
+    font-style: italic;
+}
+.part2{
+    background:#ecd8bf;
+}
+.part2 h2{
+    text-align: center;
+    margin: 0px;
+    text-transform: capitalize;
+    color: #a2144c;
+    margin-top: 3px;
+    
+}
+.env{
+    display: flex;
+    padding: 0px 55px;
+    gap: 15px;
+    margin-top: 17px;
+}
+.p1 h3{
+    margin: 0px;
+    background: #3b382f;
+    text-align: center;
+    color: rgb(213, 135, 52);
+    font-size: 27px;
+}
+.p1 p{
+    text-align: justify;
+    color: rgb(46, 50, 22);
+    font-size: 18px;
+    font-family: inherit;
+    background: white;
+    box-shadow: 2px 1px 9px black;
+    padding: 13px;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+.part3{
+    padding: 15px 0px;
+}
+.part3 h4{
+    margin: 0px;
+    margin-left: 28px;
+    font-size: 25px;
+}
+
+.part3 p{
+    margin: 0px 27px;
+    font-size: 21px;
+
+}
+
+.part4{
+    background: black;
+
+}
+.part4 h4{
+    font-size: 25px;
+    margin: 0px 27px;
+    margin-top: 10px;
+    color: antiquewhite;
+}
+.part4 ul{
+    margin: 0px 27px;
+    margin-top: 8px;
+    font-size: 21px;
+    color: white;
+}
+/* 
+.about{
+    background: #8a5a5a;
+    color: white;
+    
+}
+.about div{
+    margin: 0px 14px;
+}
+
+.tit1{
+    color: #e7a85c;
+    text-align: center;
+    font-size: 28px;
+}
+.about h4{
+    color: #e2c990;
+    font-size: 20px;
+}
+.part1{
+    background: #26abab;
+}
+.env{
+    display: flex;
+    gap: 20px;
+
+}
+.unit1{
+    
+    box-shadow: 1px 1px 5px #cfb5b5;
+    
+    background: #674545;
+}
+.tit2{
+    font-size: 25px;
+    text-transform: capitalize;
+    text-align: center;
+    color: #f3d48d;
+    
+
+}
+.p1{
+    padding: 14px;
+    border: 2px solid white;
+}
+.p1 h3{
+    text-align: center;
+    font-size: 22px;
+    color: #a17969;
+    text-decoration: underline;
+}
+.p1 p{
+    font-style: italic;
+    text-align: justify;
+} */
